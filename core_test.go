@@ -1,4 +1,4 @@
-package keyvalue
+package main
 
 import (
 	"errors"
